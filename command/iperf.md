@@ -109,7 +109,7 @@ make install
 服务器端：
 
 ```shell
-iperf -u -s
+iperf -s
 ```
 
 客户端：
